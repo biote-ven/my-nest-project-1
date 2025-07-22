@@ -11,5 +11,10 @@
       "src": "/(.*)",
       "dest": "src/main.ts"
     }
-  ]
+  ],
+  "env": {
+    "FIREBASE_PROJECT_ID": "erp-module-challenge",
+    "FIREBASE_CLIENT_EMAIL": "firebase-adminsdk-fbsvc@erp-module-challenge.iam.gserviceaccount.com",
+    "FIREBASE_PRIVATE_KEY": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4O1YYNB+vcHgY\nFgqKWIQEnLF/KZ9tH1+A44eRtw28g9mlASXYLQjxAGtoic2BJkv8ukCx/0KLbdvf\niDWnGmlJgbtpWF+E7/QtnHl24QkYi0c7UJXtTbhO5uT8Hnr7rsB6hdY73kyFmttX\nNXH6Q9ZPweyuTqavsM2FgQEGfN7nMKK5QLAklrTfy3zlb8DpooTTCXDmnWK0CRla\ntGkvMa2W6O9bjJHm/Gc+ubA5KxJdCQ+ptz/Lf5uOBo/ebe+hOpu9gjNMuLwVvqEK\nEeyJ/JxV02DG2qn7mQJRG/gtPqst9g8unCApB0y2KrHtkQ8qbSsQpDZ+ls6PWhfi\nz5LMd9nbAgMBAAECggEAHsQl+g/GVNWK8LbJltX2YhDK4YoRajdJiyw0KSTxQdCh\nCZm5+LJ4okqoJUKSE6XSHcf64t7WfZNgmyFTmG7kM1bbddnAxeIOnIlbjXtCOhuU\nTzcDeqg2hdKwXdw3PI2v7iYoo0HZ9JvqUlOGD73BbftcK7XNx1xWzhs/kRZMYT4o\nv0nFfCs5C31iuwMNvEdbGdshtBrBghWh6ebhsPx/0oCxE1JZfDZTLmImAGK8SDi/\nfP5CDfuNyoM0NM/yKubme3FaHS/OIKVJRzOtA9g2zhhHkR7USX9vAx39ujf9gwFk\nr4yELUzqjlEy3ZShvKkuwAA6qFVBskgV8SSy10YMEQKBgQDrtRSr59stwDRAXVjf\n0f29DkvRT2oJZywvvM74pxM53kmscR6twZ3Mkq9vi87i9drF5QqlAsDsjEGQaWrH\n2WcjiIEipgq/O20IvKG2BuSQoPMNnyDg1PeJ3j9jPs7Oz255JF+9GzULu1CS2PfJ\ng3924bSJMC/RwYnOl2XGxJVp0QKBgQDIF7/i7iKAJeJuuwQdNeLBxolPAQVxHaI8\npzLoVJuqy22N4fypPyOOhwE5/JQ5uCirYkZ6wbCkjLjsUrTL/7R3xCvMcVnDES8J\ncZz6Tcfzy0JdBEeMKeB8JKqTc+89zbJFDQa/JcttVcETzLIVDQruwtwbXrUooCj0\nlGOcSnsH6wKBgQCzNYZ1/V6jtlMD7PU5l0s4hroWdi7E33C1CvTCESWJBf014vvU\nWDVF6PEB+mZeIVcoxzAErcdJEop25e+N6zmDxrGISn45T1FjJyg8YZk+bWDepnI0\n/zcF17iSGJrcmtH/wSwZd6opNU3ZmKUszZIILSs6cyyoamIAdROowKZpQQKBgQDH\n0i/myDncD/lY65roMPAK4+Ir67ErjZR/Tdog+p2aqxz1HEHeIxe3NkubRQohui+j\nN7l6zgNB0Oa72ryDHRF0qYuz11701yxKGhPSQ+rzJIFZsvRgnVF5qIRQTO8WoVzu\naFvceDn3LjRrOXh+XVAVsLNvAd2YfJlp5uazJg5HkQKBgHuQCKAsLD9eG9a6KihK\nrVTEMZD3kb9WRgyUFOTUiBOOsJb3Me007zNC50qq4xOhWThOMaYrZdzvhhJBF1ke\not/u3PlSSgoXBkJSjAukDfLgLrh4yeXROSkxEnz0zxVWTFke6B7egh/JXZhciNS9\n7fK05V9mCgnMrz0PhjDT9v/R\n-----END PRIVATE KEY-----\n"
+  }
 }
